@@ -16,7 +16,7 @@
     "bugs": {
         "url": "https://github.com/noodny/materializecss-amd/issues"
     },
-    "homepage": "https://github.com/noodny/materializecss-amd",
+    "homepage": "https://github.com/kamote/materializecss-amd",
     "dependencies": {
         "bower": "^1.4.1",
         "del": "^1.2.0",
