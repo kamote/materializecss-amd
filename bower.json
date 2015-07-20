@@ -1,6 +1,7 @@
 {
     "name": "materializecss-amd",
     "version": "0.0.1",
+    "main": "dist/materializecss-amd.js",
     "homepage": "https://github.com/noodny/materializecss-amd",
     "authors": [
         "kjakubik <krzysiek.jakubik@gmail.com>"
